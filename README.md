@@ -12,7 +12,6 @@
 
 <p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at <br>gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: Java and JavaScript</p>
 
-
 ###
 
 <h2 align="left">I know the languages:</h2>
@@ -51,9 +50,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavorods&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src=https://github.com/gustavorods height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavorods&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-

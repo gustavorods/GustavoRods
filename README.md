@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Gustavo Rodrigues, I'm a System Development student.</p>
+<p align="left">My name is <b>Gustavo Rodrigues</b>, I'm a <b>System Development</b> student.</p>
 
 ###
 

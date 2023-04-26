@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Gustavo Rodrigues, I'm a system development student at Etec Zona Leste school, and I'm in Sao Paulo, Brazil</p>
+<p align="left">My name is  Gustavo Rodrigues, I'm a System Development student.</p>
 
 ###
 

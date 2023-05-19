@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at <br>gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: Java and JavaScript<br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br> [![](https://visitcount.itsvg.in/api?id=gustavords&label=Profile%20Views&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
+<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at <br>gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: Java and JavaScript<br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br> # [![](https://visitcount.itsvg.in/api?id=gustavords&label=Profile%20Views&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
 </p>
 
 ###

@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at <br>gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: Java and JavaScript<br><br>⚡ I like listening to music, watching movies, and playing video games.</p>
+<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at <br>gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: Java and JavaScript<br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br> [![](https://visitcount.itsvg.in/api?id=gustavords&label=Profile%20Views&color=12&icon=7&pretty=false)](https://visitcount.itsvg.in)
+</p>
 
 ###
 
@@ -55,9 +56,4 @@
  # <h2 align="left">GitHub Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=gustavorods&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=gustavorods&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###

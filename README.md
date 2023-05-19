@@ -4,6 +4,8 @@
 
 <p align="left">My name is <b>Gustavo Rodrigues</b>, I'm a <b>System Development</b> student.</p>
 
+[![](https://visitcount.itsvg.in/api?id=gustavorods&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
 ###
 
 <h2 align="left">About me</h2>
@@ -12,8 +14,6 @@
 
 <p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at <br>gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: Java and JavaScript<br><br>⚡ I like listening to music, watching movies, and playing video games.
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=gustavorods&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 ###
 

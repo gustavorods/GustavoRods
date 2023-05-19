@@ -45,9 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
 
-###
-
-<p align="left"></p>
 
  # <h2 align="left">GitHub Stats:</h2>
 ![](https://github-readme-stats.vercel.app/api?username=gustavorods&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>

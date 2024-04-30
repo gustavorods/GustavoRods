@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">I know the languages:</h2>
+<h2 align="left">Languages:</h2>
 
 ###
 

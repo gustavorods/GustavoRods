@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" height="32" width="32"> What's up?</h1>
+<h1 align="left">Hey <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" height="32" width="32"> What's up? </h1>
 
 ###
 

@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at <br>gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: React Native and NodeJs<br><br>⚡ I like listening to music, watching movies, and playing video games.
+<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: React Native and NodeJs<br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="16" alt="linkedin logo"/> in/gustavo-rodrigues-4887b7288
 </p>
 
 ###
@@ -88,19 +88,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gustavorods&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gustavorods&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorods&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-###
-
-<h2 align="left">Social Network
-</h2>
-
-###
-
-<div align="left">
-   <a href="www.linkedin.com/in/gustavo-rodrigues-4887b7288" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-</div>
 
 ###
 

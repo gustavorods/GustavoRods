@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: React Native and NodeJs<br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="16" alt="linkedin logo"/> in/gustavo-rodrigues-4887b7288
+<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: TypeScript <br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="16" alt="linkedin logo"/> in/gustavo-rodrigues-4887b7288
 </p>
 
 ###

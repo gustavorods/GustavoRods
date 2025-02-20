@@ -83,6 +83,16 @@
 
 ###
 
+<h2 align="left">Tests:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
+
 <h2 align="left">GitHub Stats:</h2>
 
 ###

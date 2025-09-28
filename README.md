@@ -72,6 +72,7 @@
 
 <div align="left">
   <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" height="40" alt="vercel logo"  />
+  <img src="https://help.lenses.io/quickstart/managed-kafka/images/aiven/logo.png" height="40" alt="vercel logo"  />
 </div>
 
 ###

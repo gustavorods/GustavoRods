@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Gustavo Rodrigues</b>, I'm a <b>System Development</b> student .</p>
+<p align="left">My name is <b>Gustavo Rodrigues</b>, I'm a <b>back-end Developer</b> at @Synergie Consulting.</p>
 
 ###
 
@@ -10,35 +10,42 @@
 
 ###
 
-<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at gustavo.rlsilva07@gmail.com<br><br>🔭 I seek to deepen my knowledge of programming, for my first internship in the area<br><br>🌱 I am currently studying: TypeScript <br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="16" alt="linkedin logo"/> in/gustavo-rodrigues-4887b7288
+<p align="left">🌎 I live in São Paulo, SP - Brazil<br><br>📩 You can contact me at gustavo.rlsilva07@gmail.com<br><br>🔭 To improve my knowledge in software engineering.<br><br>🌱 I am currently studying: Java and Spring Boot <br><br>⚡ I like listening to music, watching movies, and playing video games. <br><br><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="16" alt="linkedin logo"/> in/gustavo-rodrigues-4887b7288
 </p>
 
 ###
 
-<h2 align="left">Languages: </h2>
+<h2 align="left">Languages/Frameworks: </h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -72,7 +79,18 @@
 
 <div align="left">
   <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" height="40" alt="vercel logo"  />
-  <img src="https://help.lenses.io/quickstart/managed-kafka/images/aiven/logo.png" height="40" alt="vercel logo"  />
+  <img src="https://ibt.com.au/wp-content/uploads/2025/02/aiven-logo_vert_wht-txt_RGB.webp" height="40" alt="Aiven logo"  />
+</div>
+
+###
+
+<h2 align="left">DevOps:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
 </div>
 
 ###

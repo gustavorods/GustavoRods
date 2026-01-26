@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Gustavo Rodrigues</b>, I'm a <b>back-end Developer</b> at @Synergie Consulting.</p>
+<p align="left">My name is <b>Gustavo Rodrigues</b>, I'm a <b>back-end Developer</b> at Synergie Consulting.</p>
 
 ###
 

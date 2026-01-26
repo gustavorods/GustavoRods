@@ -56,6 +56,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
   <img src="https://junit.org/assets/img/junit5-logo.png" height="40" alt="junit logo"  />
 </div>
 
@@ -79,6 +80,7 @@
 
 <div align="left">
   <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" height="40" alt="vercel logo"  />
+  <img width="12" />
   <img src="https://ibt.com.au/wp-content/uploads/2025/02/aiven-logo_vert_wht-txt_RGB.webp" height="40" alt="Aiven logo"  />
 </div>
 

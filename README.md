@@ -100,6 +100,20 @@
 
 ###
 
+<h2 align="left">AI:</h2>
+
+###
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="40" alt="Claude logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/500px-ChatGPT-Logo.svg.png" height="40" alt="chatgpt logo"  /> 
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/lovable-color.png" height="40" alt="lovable logo"  /> 
+  <img width="12" />
+</div>
+
+###
+
 <h2 align="left">I work with:</h2>
 
 ###
